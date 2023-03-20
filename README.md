@@ -1,4 +1,6 @@
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **arturschmitt/arturschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá mundo, eu sou o Artur Schmitt! 👋
+
+- Estudando no Senac, em São Leopoldo 📖
+- Iniciação científica na Unisinos 💻
+- Vim > Emacs
+
+:wq
