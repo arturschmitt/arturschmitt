@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Iniciação científica na Unisinos 💻
 - Vim > Emacs 🍷🗿
 
-##Experiência com:
+###Experiência com:
 - Python
   - SKLearn
   - Pandas
