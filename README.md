@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 
 - HTML, CSS, JS
   - Bootstrap
-
-:wq
