@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 - Vim > Emacs 🍷🗿
 
 ## Experiência com:
-- Python
+- Python 🐍
   - SKLearn
   - Pandas
   - Matplotlib
 
-- HTML, CSS, JS
+- HTML, CSS, JS 🌐
   - Bootstrap
