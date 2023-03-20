@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - Estudando no Senac, em São Leopoldo 📖
 - Iniciação científica na Unisinos 💻
-- Vim > Emacs
+- Vim > Emacs 🗿🍷
 
 :wq
