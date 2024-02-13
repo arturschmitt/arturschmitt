@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - Estudando no Senac, em São Leopoldo 📖
 - Iniciação científica na Unisinos 💻
 - Usando Linux Mint com XFCE 🐧
-- Vim > Emacs 🙃
 
 ## Experiência com:
 - Python 🐍
@@ -34,7 +33,8 @@ Here are some ideas to get you started:
 - HTML, CSS, JS 🌐
 
 - React 🌐
+  - NextJS
 
-- Nodejs 🌐
+- NodeJS 🌐
 
 - Git 💾
