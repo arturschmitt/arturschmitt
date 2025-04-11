@@ -19,16 +19,15 @@ Here are some ideas to get you started:
 
 # Olá mundo, eu sou o Artur Schmitt! 👋
 
-- Estudando no Senac, em São Leopoldo 📖
-- Iniciação científica na Unisinos 💻
-- Usando Linux Mint com XFCE 🐧
+- Cursando Ciência da Computação na Unisinos 📖
+- Formação Técnica em Informática para a Internet pelo Senac São Leopoldo 📕
+- Estagiário na área de desenvolvimento web na Prefeitura Municipal de Novo Hamburgo 💻
 
 ## Experiência com:
 - Python 🐍
   - SKLearn
   - Pandas
   - Matplotlib
-  - Django
 
 - HTML, CSS, JS 🌐
 
@@ -37,5 +36,7 @@ Here are some ideas to get you started:
 
 - NodeJS 🌐
   - Express
+
+- Sass 🌐
 
 - Git 💾
